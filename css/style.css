@@ -2,6 +2,9 @@ body {
     font-family: 'Josefin Sans', sans-serif;
     font-size: 20px;
     font-weight: bold;
+    background: url('/img/bgc.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .wrapper {
